@@ -7,7 +7,7 @@
 - g++
 - cmake
 
-## Instalation
+## Installation
 
 Install dependencies:
 
