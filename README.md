@@ -36,6 +36,10 @@ cd bin/
 
 ## Example
 
+***Rule meaning***
+
+![rule](https://github.com/MagnesiaReal/Game_of_Life_plusrules/blob/main/images/rule.png)
+
 ***Use***
 
 ![menu](https://github.com/MagnesiaReal/Game_of_Life_plusrules/blob/main/images/use.gif)
